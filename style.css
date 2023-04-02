@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+    height:70px;
+    background-color: rgb(40, 42, 63);
+    font-size: large;
+    color: white;
+    border: 3px solid #90409b;
+}
+
+nav ul li{
+    display:inline;
+    align-items: center;
+    padding: 10px;
+}
+nav ul{
+    padding: 23px;
+}
+main{
+    background-color: rgb(72, 66, 145);
+}
+
+h1{
+    padding:10px;
+    color:white;
+    text-align: center;
+}
+h3{
+    color: white;
+    margin: 5px;
+    
+}
+.intro{
+    margin:25px;
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+}
+img{
+    
+    width: 40vh;
+    height:40vh;
+    margin:25px;
+}
+h2{
+    margin:15px;
+    padding: 20px;
+    font-size: 46px;
+    
+}
+#fashion{
+    color:black;
+}
+#food{
+    color: rgba(0, 0, 0, 0.842);
+}
+#travel{
+    color:black;
+}
+.shopping{
+    background-color: #f5aeff;
+}
+.food{
+    
+    background-color: rgb(50, 190, 85);
+}
+.travel{
+    background-color: coral;
+}
+footer{
+    height: 70px;
+    font-size: 18px; 
+    background-color: rgb(40, 42, 63);
+    color: white;
+    display:flex;
+    justify-content: center;
+    border: 3px solid #90409b;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    align-items: center;
+}
